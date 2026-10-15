@@ -1,5 +1,7 @@
 # OrçaLume
 
+![Apresentação de OrçaLume](assets/banner.png)
+
 **Orçamentos para prestadores de serviço.**
 
 OrçaLume é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ OrçaLume é uma solução Gentill em desenvolvimento, com interface em **portug
 - Organize clientes e serviços
 - Componha materiais, mão de obra e valores
 - Prepare orçamentos para compartilhar
+
+## Identidade visual
+
+![Ícone de OrçaLume](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
